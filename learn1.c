@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a[100], i,n,x,y;
+    int a[100], i,n,x;
     printf("Enter the size\n");
     scanf("%d",&n);
     for(i=0; i<n; i++)
